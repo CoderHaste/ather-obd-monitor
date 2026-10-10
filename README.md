@@ -39,7 +39,7 @@ Designed mobile-first, since that's where it's used.
 
 | Dashboard | Cells | Charger | More |
 |:---:|:---:|:---:|:---:|
-| <img src="dashboard.jpeg" width="200" alt="Dashboard tab"> | <img src="cells.jpeg" width="200" alt="Cells tab"> | <img src="charger.jpeg" width="200" alt="Charger tab"> | <img src="more.jpeg" width="200" alt="More tab"> |
+| <img src="images/dashboard.jpeg" width="200" alt="Dashboard tab"> | <img src="images/cells.jpeg" width="200" alt="Cells tab"> | <img src="images/charger.jpeg" width="200" alt="Charger tab"> | <img src="images/more.jpeg" width="200" alt="More tab"> |
 | SoC ring, range, voltage, mode, battery health and every switch | Pack balance summary and 14 cell cards with voltage, health and balance bar | Charging power, in/out electricals and charger status | Motor stats, eco modes and seat lock |
 
 **Design details**
@@ -91,7 +91,7 @@ Wi-Fi is **off at boot**. Turn it on only when you want the phone dashboard.
 
 ### Wiring
 
-<img src="wiring-diagram.png" alt="A-OBD Scanner Wiring Diagram" width="100%">
+<img src="images/wiring-diagram.png" alt="A-OBD Scanner Wiring Diagram" width="100%">
 
 ```text
  CAN transceiver                ESP32

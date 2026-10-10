@@ -11,7 +11,7 @@ Read it on a 0.96" OLED, or on your phone over its own Wi-Fi. No cloud, no app, 
 ![Display](https://img.shields.io/badge/display-SSD1306%20128×64-3a3a3a?style=flat-square)
 ![Dashboard](https://img.shields.io/badge/dashboard-light%20%2B%20dark-f0b429?style=flat-square)
 
-<img src="hero.png" alt="A-OBD web dashboard on a phone: dashboard, cell info, charger, and dark mode" width="100%">
+<img src="images/hero.png" alt="A-OBD web dashboard on a phone: dashboard, cell info, charger, and dark mode" width="100%">
 
 <sub>Screenshots use sample data.</sub>
 

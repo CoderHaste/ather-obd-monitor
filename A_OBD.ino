@@ -683,7 +683,7 @@ void drawWelcome(){
 
   u8g2.drawHLine(24, 43, 80);
 
-  const char *by = "by PM27";
+  const char *by = "by CoderHaste";
   u8g2.drawStr((128 - u8g2.getStrWidth(by)) / 2, 56, by);
   u8g2.sendBuffer();
 }

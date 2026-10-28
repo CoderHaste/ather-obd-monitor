@@ -12,7 +12,7 @@ Read it on a 0.96" OLED, or on your phone or PC over its own Wi-Fi. Every ride a
 ![Logging](https://img.shields.io/badge/logging-rides%20%2B%20charges-f0b429?style=flat-square)
 ![Version](https://img.shields.io/badge/version-v6.7-1d7a57?style=flat-square)
 
-<img src="img/hero.png" alt="A-OBD web dashboard on a phone" width="100%">
+<img src="/img/hero.png" alt="A-OBD web dashboard on a phone" width="100%">
 
 <sub>Screenshots use sample data.</sub>
 

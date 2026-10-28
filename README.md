@@ -12,7 +12,7 @@ Read it on a 0.96" OLED, or on your phone or PC over its own Wi-Fi. Every ride a
 ![Logging](https://img.shields.io/badge/logging-rides%20%2B%20charges-f0b429?style=flat-square)
 ![Version](https://img.shields.io/badge/version-v6.7-1d7a57?style=flat-square)
 
-<img src="/img/hero.png" alt="A-OBD web dashboard on a phone" width="100%">
+<img src="images/hero.png" alt="A-OBD web dashboard on a phone" width="100%">
 
 <sub>Screenshots use sample data.</sub>
 
@@ -53,7 +53,7 @@ Four tabs along the bottom, all within thumb reach:
 
 | Home | Cells | Charger | Vehicle |
 |:---:|:---:|:---:|:---:|
-| <img src="dashboard.jpeg" width="200" alt="Home tab"> | <img src="cells.jpeg" width="200" alt="Cells view"> | <img src="charger.jpeg" width="200" alt="Charger view"> | <img src="more.jpeg" width="200" alt="Vehicle tab"> |
+| <img src="images/dashboard.jpeg" width="200" alt="Home tab"> | <img src="images/cells.jpeg" width="200" alt="Cells view"> | <img src="images/charger.jpeg" width="200" alt="Charger view"> | <img src="images/more.jpeg" width="200" alt="Vehicle tab"> |
 
 ### On a PC
 
@@ -196,7 +196,7 @@ Wi-Fi is **off at boot**. Turn it on only when you want the dashboard. Logging r
 
 ### Wiring
 
-<img src="wiring-diagram.png" alt="A-OBD Scanner wiring diagram" width="100%">
+<img src="images/wiring-diagram.png" alt="A-OBD Scanner wiring diagram" width="100%">
 
 ```text
  CAN transceiver                ESP32-C3
